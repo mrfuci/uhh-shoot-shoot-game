@@ -73,6 +73,9 @@ while True:
     if Y_POS > Y_RES - 139:
         Y_POS = Y_RES - 139
     
+
+
+        
     pygame.display.update()
     
 Clock.tick(FPS)
